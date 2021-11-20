@@ -32,8 +32,6 @@ To learn more about Deep Q-networks refer to [1].
   <img src="https://user-images.githubusercontent.com/48867769/91851317-3e549400-ec5f-11ea-8015-88931e568863.png" alt="DQN-agent" width="80%" />
 </p>
 
-## Contributors
-* Houssem Meghnoudj [mail](mailto:houssem.meghnoudj@gmail.com).
 
 ## References
 [1] [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236).
